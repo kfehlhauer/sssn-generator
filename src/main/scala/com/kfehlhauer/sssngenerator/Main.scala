@@ -1,8 +1,6 @@
 package com.kurtfehlhauer.sssngenerator
 
 import zio.*
-import zio.Console.*
-import zio.Clock.*
 import zio.stream.{ZPipeline, ZSink}
 import zio.aws.core.config.AwsConfig
 import zio.aws.netty
