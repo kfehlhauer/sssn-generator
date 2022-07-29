@@ -1,0 +1,14 @@
+target
+test-output/
+.sbtopts
+project/.sbt
+.bloop
+.metals
+metals.sbt
+.idea
+coursier
+.bsp
+.vscode
+
+*.DS_Store
+*.vscode
